@@ -8,7 +8,8 @@ made using javaFX and Jfoenix with Maven
 just clone it and open it in whatever ide(IntelliJ recommended)
 and if you opened it using IntelliJ edit configs and add this code in VM options
 
-```--add-opens
+```
+--add-opens
 java.base/java.lang.reflect=com.jfoenix
 --illegal-access=warn
 ```
